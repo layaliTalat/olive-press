@@ -114,7 +114,7 @@ the complete olive press pipeline throughput.
 
 ---
 
-# Member 4 - Graphics, Testing and Final Delivery
+# Graphics, Testing and Final Delivery
 
 ## Overview
 
